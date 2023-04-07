@@ -1,0 +1,10 @@
+.cat-holder::before {
+  content: '';
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+  top: 0;
+  left: 0;
+  position: absolute;
+  display: block;
+}
